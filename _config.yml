@@ -4,13 +4,13 @@ theme: just-the-docs
 
 url: https://markwkidd.github.io
 #baseurl: cushaw-handbook # needed when the pages are served from a subfolder, like on github.io
-repository: markwkidd/crop-guides # for github-metadata
+repository: janbrasna/docs # for github-metadata
 
 permalink: pretty
 
 aux_links:
-  Commonwealth Cushaw Facebook Group: https://www.facebook.com/groups/commonwealthcushaw
-  Going to Seed Courses and Community: https://goingtoseed.org/
+  Group: https://example.com/
+  Community: https://example.org/
 
 search_enabled: false
 
@@ -22,7 +22,7 @@ footer_content: "Copyright &copy; Going to Seed and Handbarrow. Published with a
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub"
-gh_edit_repository: "https://github.com/markwkidd/cushaw-handbook" # the github URL for your repo
+gh_edit_repository: "https://github.com/janbrasna/jekyll-jtd-conf-test" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
