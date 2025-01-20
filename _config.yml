@@ -2,8 +2,8 @@ title: Commonwealth Cushaw
 description: An open repostory of information about cushaw squash from seed to plate
 theme: just-the-docs
 
-url: https://markwkidd.github.io
-#baseurl: cushaw-handbook # needed when the pages are served from a subfolder, like on github.io
+url: https://nyan.cat
+baseurl: ?cat=america # needed when the pages are served from a subfolder
 repository: janbrasna/docs # for github-metadata
 
 permalink: pretty
